@@ -10,7 +10,7 @@ class BudgetList:
   self.expenses = []
   self.sum_overages = 0
   self.overages = []
-BudgetList.append( item)
+List.append(item):
 if self.sum_expenses + item < self.budget:
  self.expenses.append(item)
 item+ self.sum_expenses
